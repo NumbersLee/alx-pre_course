@@ -1,1 +1,2 @@
-School is great
+Coding is cool
+school is good
